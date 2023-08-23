@@ -34,9 +34,13 @@ Pré-requisitos:
 Para aproveitar ao máximo este repositório, você deve ter:
 
 Python instalado em seu sistema (versão 3.x recomendada).
+
 Um ambiente de desenvolvimento Python, como Jupyter Notebook ou Anaconda, configurado.
+
 Noções básicas de programação (não é necessário ser um especialista).
+
 Como Usar Este Repositório
+
 Clone este repositório em seu ambiente de desenvolvimento local:
 
 bash
@@ -51,7 +55,6 @@ Estude os exemplos de código e os materiais de aprendizado fornecidos.
 
 Experimente os códigos em seu próprio ambiente para praticar.
 
-Consulte a seção de "Projetos Práticos" para aplicar os conhecimentos em um cenário do mundo real.
 
 Contribuições:
 
@@ -62,9 +65,9 @@ Recursos Adicionais:
 Além deste repositório, aqui estão alguns recursos adicionais para aprofundar seu aprendizado em Python e Data Science:
 
 Python.org: Site oficial da linguagem Python.
-DataCamp: Plataforma de aprendizado de ciência de dados com cursos interativos em Python.
-Kaggle: Comunidade de ciência de dados com conjuntos de dados, competições e tutoriais em Python.
-Coursera: Cursos online em ciência de dados e Python.
+
+datascienceacademy.com: Site que disponibiliza o curso utilizado nesse projeto
+
 Lembre-se, a jornada de aprendizado em ciência de dados e Python é contínua. Continue explorando e praticando para aprimorar suas habilidades.
 
 Divirta-se aprendendo Python e Data Science!
