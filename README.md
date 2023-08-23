@@ -1,5 +1,8 @@
 Fundamentos da Linguagem Python para Análise de Dados e Data Science
 
+Fundamentos da Linguagem Python para Análise de Dados e Data Science
+Python Data Science
+
 Este repositório é uma introdução abrangente aos fundamentos da linguagem Python para análise de dados e data science. Se você é um iniciante na área de ciência de dados ou deseja aprimorar suas habilidades em Python, este guia é o ponto de partida perfeito.
 
 Visão Geral:
