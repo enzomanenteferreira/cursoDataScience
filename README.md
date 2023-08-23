@@ -42,9 +42,6 @@ Visualização de dados avançada com Seaborn e Plotly
 Introdução a algoritmos de Machine Learning com Scikit-Learn
 Como Usar Este Repositório
 Clonagem do Repositório: Clone este repositório para sua máquina local usando o comando abaixo:
-
-bash
-Copy code
 git clone https://github.com/enzoiwnl123/cursoDataScience.git
 Navegação: Navegue pelos diferentes diretórios para acessar os módulos e suas respectivas seções.
 
