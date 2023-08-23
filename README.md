@@ -11,6 +11,8 @@ A linguagem Python é uma escolha popular para cientistas de dados e analistas d
 
 Instalação e Configuração: Como instalar Python e configurar um ambiente de desenvolvimento adequado.
 
+Introdução: Introdução a lógica de programação
+
 Estruturas de Dados: Introdução às estruturas de dados em Python, incluindo listas, tuplas, dicionários e conjuntos.
 
 Controle de Fluxo: Como usar condicionais (if, elif, else) e loops (for, while) em Python.
@@ -21,11 +23,11 @@ Manipulação de Arquivos: Como ler e escrever arquivos em Python.
 
 Bibliotecas de Análise de Dados: Uma introdução às bibliotecas essenciais para análise de dados, como NumPy, pandas e Matplotlib.
 
-Análise Exploratória de Dados (EDA): Princípios e práticas da EDA, incluindo resumos estatísticos, visualização de dados e limpeza de dados.
-
 Introdução à Estatística: Conceitos estatísticos básicos e como aplicá-los usando Python.
 
 Machine Learning com Python: Uma visão geral sobre como começar com aprendizado de máquina em Python, usando bibliotecas como scikit-learn.
+
+Deep Learning: Introdução a Deep learning com TensorFlow.
 
 Projeto Prático: Um projeto de análise de dados completo para aplicar os conhecimentos adquiridos.
 
