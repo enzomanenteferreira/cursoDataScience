@@ -40,7 +40,8 @@ bash
 
 Copy code
 
-git clone https://github.com/seu-usuario/python-analise-de-dados.git
+git clone https://github.com/seu-usuario/cursoDataScience.git
+
 Navegue pelos diretórios para acessar os diferentes tópicos.
 
 Estude os exemplos de código e os materiais de aprendizado fornecidos.
