@@ -57,5 +57,5 @@ print(list2)
 
 frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
 
-for string in list(range(1,18)):
+for string in range(1,18):
     print(frase[string])
