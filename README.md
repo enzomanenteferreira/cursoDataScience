@@ -49,7 +49,7 @@ bash
 
 Copy code
 
-git clone https://github.com/seu-usuario/cursoDataScience.git
+git clone https://github.com/enzomanenteferreira/cursoDataScience.git
 
 Navegue pelos diretórios para acessar os diferentes tópicos.
 
