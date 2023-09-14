@@ -3,7 +3,7 @@
 import openai
 
 # Chave
-openai.api_key = "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"
+openai.api_key = "your-key-here"
 
 # função para gerar texto a partir do modelo de linguagem
 def gera_texto(texto):
